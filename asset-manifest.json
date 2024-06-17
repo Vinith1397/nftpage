@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vinith1397/reposito.git/static/css/main.15467f14.css",
+    "main.css": "/Vinith1397/reposito.git/static/css/main.a9d089c3.css",
     "main.js": "/Vinith1397/reposito.git/static/js/main.01cb2fab.js",
     "static/media/release1.png": "/Vinith1397/reposito.git/static/media/release1.0c482aba7d6da2c3e9bb.png",
     "static/media/home.png": "/Vinith1397/reposito.git/static/media/home.7fc4253ec840bd813401.png",
@@ -11,11 +11,11 @@
     "static/media/super1.png": "/Vinith1397/reposito.git/static/media/super1.1fbdfb3ac7255099ffbb.png",
     "static/media/super3.png": "/Vinith1397/reposito.git/static/media/super3.190d195b791351c19c67.png",
     "index.html": "/Vinith1397/reposito.git/index.html",
-    "main.15467f14.css.map": "/Vinith1397/reposito.git/static/css/main.15467f14.css.map",
+    "main.a9d089c3.css.map": "/Vinith1397/reposito.git/static/css/main.a9d089c3.css.map",
     "main.01cb2fab.js.map": "/Vinith1397/reposito.git/static/js/main.01cb2fab.js.map"
   },
   "entrypoints": [
-    "static/css/main.15467f14.css",
+    "static/css/main.a9d089c3.css",
     "static/js/main.01cb2fab.js"
   ]
 }
